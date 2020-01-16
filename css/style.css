@@ -1,0 +1,24 @@
+.social-media{
+
+}
+.social-media .icon{
+
+}
+.social-media p{
+	
+}
+
+.social-media .fa{
+	font-size: 50px !important;
+	padding: 2px 15px;
+	cursor: pointer;
+}
+.social-media span:hover .fa{
+	font-size: 50px !important;
+	padding: 2.5px 13px;
+	cursor: pointer;
+	color: #cecece;
+	transition: .4s;
+}
+
+
